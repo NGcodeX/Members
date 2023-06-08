@@ -1,6 +1,6 @@
 # Members
 
-<a href="https://eepurl.com/ic39T5"><img src="https://raw.githubusercontent.com/NGcodeX/NGcodeX_Members/78a95405b0755a792dbb0dccf20508eefb6dd83a/.github/workflows/private/svg/NGcodeXmembers.svg"></a>
+<a href="https://eepurl.com/ic39T5"><img src="https://raw.githubusercontent.com/NGcodeX/NGcodeX_Members/26d216cb033f60f0d894b3136b00669ffe8b4bf3/.github/workflows/private/svg/NGcodeXmembers.svg"></a>
 
 
 # Contributions
