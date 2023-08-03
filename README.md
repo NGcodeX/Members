@@ -1,6 +1,6 @@
 # Members
 
-<a href="https://ngcodex.com/dev-session/#newuser"><img src="https://raw.githubusercontent.com/NGcodeX/NGcodeX_Members/b855e730d38255286db1995561f42263474a9240/.github/workflows/private/svg/NGcodeXmembers.svg"></a>
+<a href="https://ngcodex.com/dev-session/#newuser"><img src="https://raw.githubusercontent.com/NGcodeX/NGcodeX_Members/e7cb443855bcb4cda3a9249664b3d013359d1be9/.github/workflows/private/svg/NGcodeXmembers.svg"></a>
 
 # Stat
 |  |  |
