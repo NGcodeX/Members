@@ -1,6 +1,6 @@
 # Members
 
-<a href="https://ngcodex.com/dev-session/#newuser"><img src="https://orgmembers.onrender.com/"></a>
+<a href="https://ngcodex.com/dev-session/#newuser"><img src="https://orgmember.onrender.com/"></a>
 
 # Stat
 |  |  |
